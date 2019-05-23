@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestTaskInnowiseGroup", "ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup.csproj", "{158BBF7B-0345-4419-83CD-A19441A1FCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158BBF7B-0345-4419-83CD-A19441A1FCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158BBF7B-0345-4419-83CD-A19441A1FCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158BBF7B-0345-4419-83CD-A19441A1FCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158BBF7B-0345-4419-83CD-A19441A1FCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301E99AA-A05F-4E3E-8360-352A2A74D9E4}
+	EndGlobalSection
+EndGlobal

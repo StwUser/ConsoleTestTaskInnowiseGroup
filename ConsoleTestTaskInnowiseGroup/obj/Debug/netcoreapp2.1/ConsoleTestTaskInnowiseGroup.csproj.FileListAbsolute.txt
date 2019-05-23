@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\bin\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.deps.json
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\bin\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.runtimeconfig.json
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\bin\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\bin\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.dll
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\bin\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.pdb
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.dll
+C:\Users\Администратор\source\repos\ConsoleTestTaskInnowiseGroup\ConsoleTestTaskInnowiseGroup\obj\Debug\netcoreapp2.1\ConsoleTestTaskInnowiseGroup.pdb

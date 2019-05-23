@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookName>Rome</BookName>
+    <Year>1777</Year>
+    <Author>
+      <string>London</string>
+      <string>Freeman</string>
+    </Author>
+  </Book>
+  <Book>
+    <BookName>Second book</BookName>
+    <Year>1564</Year>
+    <Author>
+      <string>Who</string>
+    </Author>
+  </Book>
+  <Book>
+    <BookName>Osean</BookName>
+    <Year>1789</Year>
+    <Author>
+      <string>London</string>
+    </Author>
+  </Book>
+  <Book>
+    <BookName>Six Book</BookName>
+    <Year>66</Year>
+    <Author>
+      <string>Joe</string>
+    </Author>
+  </Book>
+</ArrayOfBook>
