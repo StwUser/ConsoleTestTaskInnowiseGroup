@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup.csproj",
       "projectName": "ConsoleTestTaskInnowiseGroup",
-      "projectPath": "C:\\Users\\Администратор\\Desktop\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup.csproj",
+      "projectPath": "C:\\Users\\Администратор\\source\\repos\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Администратор\\Desktop\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\obj\\",
+      "outputPath": "C:\\Users\\Администратор\\source\\repos\\ConsoleTestTaskInnowiseGroup\\ConsoleTestTaskInnowiseGroup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
